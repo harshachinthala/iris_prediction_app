@@ -5,6 +5,18 @@
 
 This application leverages a **K-Nearest Neighbors (KNN)** classifier to predict the species of an Iris flower based on its sepal and petal measurements. Built with **Streamlit**, it offers a reactive user interface for real-time inference and interactive data visualization.
 
+
+
+## 🧠 Tech Stack & Skills
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Framework-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blueviolet?style=for-the-badge&logo=seaborn&logoColor=white)
+
+---
+
 ---
 
 ## 📸 Demo
@@ -18,15 +30,6 @@ Live link: https://huggingface.co/spaces/harshachinthala/Iris_prediction_app
 
 ---
 
-## 🧠 Tech Stack & Skills
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Framework-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blueviolet?style=for-the-badge&logo=seaborn&logoColor=white)
-
----
 
 ## 🚀 Key Features
 
