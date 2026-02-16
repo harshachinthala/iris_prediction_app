@@ -9,7 +9,9 @@ This application leverages a **K-Nearest Neighbors (KNN)** classifier to predict
 
 ## 📸 Demo
 
-[![Iris App Interface](<img width="1470" height="833" alt="Screenshot 2026-02-16 at 10 22 09 AM" src="https://github.com/user-attachments/assets/6a8a638d-9318-41e9-be57-f90f3c440f9b" />)](https://huggingface.co/spaces/harshachinthala/Iris_prediction_app)
+Live link: https://huggingface.co/spaces/harshachinthala/Iris_prediction_app
+
+<img width="1470" height="833" alt="Screenshot 2026-02-16 at 10 22 09 AM" src="https://github.com/user-attachments/assets/6a8a638d-9318-41e9-be57-f90f3c440f9b" />
 
 *The interface features intuitive sliders for input configuration and instant prediction results.*
 
