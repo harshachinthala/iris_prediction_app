@@ -1,13 +1,4 @@
----
-title: Iris Prediction App
-emoji: 🌸
-colorFrom: pink
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.42.0
-app_file: app.py
-pinned: false
----
+
 # 🌸 Iris Flower Prediction App
 
 **A streamlined machine learning application for predicting Iris flower species.**
